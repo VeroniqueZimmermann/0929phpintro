@@ -25,7 +25,7 @@ body{
             $schriftBlue = ($wert3 > 128) ? 0:255;
 
     echo "background:rgb($wert1,$wert2,$wert3);
-        color: rgb($schriftRed,$schriftGreen,$schriftBlue);";?>
+            color: rgb($schriftRed,$schriftGreen,$schriftBlue);";?>
 }
 </style>
 </head>
